@@ -36,8 +36,8 @@
         "GitHub.copilot",
         "GitHub.copilot-chat"
       ]
-    },
-    "codespaces": {
+    },updateRemoteUserUID
+    "codespaces": 
       "repositories": {
         // allow Codespaces to pull from separate repo when user has access
         "github/docs-early-access": {
